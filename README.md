@@ -29,4 +29,4 @@ dependencies:
 ```
 
 
-This `README.md` file provides a structured and beginner-friendly guide to using Shared Preferences in Flutter. You can copy and paste this into your project's `README.md` file.
+This `README.md` file provides a structured and beginner-friendly guide to using Shared Preferences in Flutter.
