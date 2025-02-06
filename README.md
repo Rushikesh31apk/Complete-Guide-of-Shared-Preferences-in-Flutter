@@ -26,3 +26,7 @@ dependencies:
   flutter:
     sdk: flutter
   shared_preferences: ^2.0.15  # Check for the latest version on pub.dev
+
+
+
+This `README.md` file provides a structured and beginner-friendly guide to using Shared Preferences in Flutter. You can copy and paste this into your project's `README.md` file.
